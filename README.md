@@ -101,5 +101,7 @@ In order to complete this assignment, you must do the following:
     the completed R code for the assignment.
 
 ### Grading
+git@github.com:tushar-kumar/ProgrammingAssignment2-r-programming.git
+SSH key
 
 This assignment will be graded via peer assessment.
